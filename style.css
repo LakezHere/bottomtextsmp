@@ -4,13 +4,4 @@ body {
     background-image: url("bg2.jpg");
     background-size: cover;
 
-    button{
-        padding: 0.60em 2em;
-        background-color: rgb(148, 255, 203);
-        color: rgb(0, 112, 58);
-        font-size: 14pt;
-        border: none;
-        border-radius: 10px;
-        }
-
     }
